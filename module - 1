@@ -1,0 +1,21 @@
+"JavaScript Basics: Basics of JavaScript: Introduction - Install Visual Studio Code and Extensions
+- First Basic Program in JavaScript - Console in JavaScript - var, let, and const in. 
+
+JavaScript.Data Types: Data Types in JavaScript - Type Conversion in JavaScript. 
+JavaScript Operators: Arithmetic Operator - Assignment Operator - Relational Operator 
+- Logical Operator - Conditional or Ternary Operator - Bitwise Operator - Increment (++) or Decrement (--). 
+
+Conditional Statements: if Statements - if-else Statements - else-if Statements - Switch Statements. 
+
+Control Statements in JavaScript: While Loop - Do-While Loop - For Loop - Nested For Loop - Break Statements - Continue Statements.
+
+User-Defined Functions: Functions in JavaScript - Arbitrary Function in JavaScript - Function as Expression in JavaScript -
+ES6 Arrow Function in JavaScript - Callback Function in JavaScript - Global Scope, Block Scope, and Local Scope.
+
+Built-in Functions: Math Functions in JavaScript - String Functions in JavaScript. 
+
+Arrays and Array Methods: What is an Array? - forEach in JavaScript with Examples - Map in JavaScript with Examples - For-in and For-of Loops - Filter in
+JavaScript - Reduce in JavaScript - Slice and Splice in JavaScript - Spread Operator
+
+Objects: Create Object - Function Inside Object - Destructuring - Array and Object Destructuring - Dot Notation and Bracket Notation 
+- Iterating Through JavaScript Objects - Organizing Data with Objects Inside Arrays - Rest Parameter and Spread Operator - Parameter Destructuring - Call, Bind, and Apply."
